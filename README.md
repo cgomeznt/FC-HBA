@@ -1,6 +1,6 @@
 ## Haproxy
 
-* [scan nuevo disco asignado sin reiniciar](guia/scannuevodisco.rst)
+* [scan nuevo disco y asignarlo sin reiniciar](guia/scannuevodisco.rst)
 * [scan FC LUN multipath](guia/scanfclunmultipath.rst)
 * [Scan for New/Removed Luns Linux with QLogic FiberChannel HBA](guia/scanlunsQlogic.rst)
 * [Buscar nuevas asignaciones de LUN](guia/scannewasignacioneslun.rst)
